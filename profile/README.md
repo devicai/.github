@@ -29,19 +29,19 @@ We are progressively open-sourcing the core layers needed to ship assistants and
 
 These are the open-source building blocks we are making available as part of the Devic ecosystem.
 
-### Ami — Available now
+### AMI — Available now
 **Turn your API into a tool-ready server.**
 
-Ami helps you transform your API into a server with tools already configured, so assistants and agents can interact with your systems in a structured and reliable way.
+AMI helps you transform your API into a server with tools already configured, so assistants and agents can interact with your systems in a structured and reliable way.
 
 - Learn more: https://devic.ai/ami/
 
-### Memo — Releasing soon
+### MEMO — Releasing soon
 **Context management for AI assistants and agents.**
 
-Memo helps teams manage the context layer behind AI assistants and agents, so products can keep the right information available across conversations, tasks, and product context.
+MEMO helps teams manage the context layer behind AI assistants and agents, so products can keep the right information available across conversations, tasks, and product context.
 
-Memo will be published as open source soon.
+MEMO will be published as open source soon.
 
 ### Operator — Coming soon
 **Secure execution for complex agent tasks.**
