@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicai/.github/main/profile/assets/logo%20devic.jpeg" alt="Devic AI" width="420" />
+</p>
+
+<h3 align="center">Open-source building blocks for AI assistants and agents in real product experiences.</h3>
+
+<p align="center">
+  <a href="https://x.com/devic_ai">
+    <img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/company/devicai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@devicAI">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
 # Devic
 
 **Open-source building blocks for AI assistants and agents in real product experiences.**
