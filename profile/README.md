@@ -1,0 +1,81 @@
+# Devic
+
+**Open-source building blocks for AI assistants and agents in real product experiences.**
+
+Devic helps companies build AI-powered product experiences without reinventing the infrastructure required to make assistants and agents actually useful in production.
+
+We are progressively open-sourcing the core layers needed to ship assistants and agents into real products:  
+**context, tools, execution, and navigation**.
+
+## Open Source
+
+These are the open-source building blocks we are making available as part of the Devic ecosystem.
+
+### Ami — Available now
+**Turn your API into a tool-ready server.**
+
+Ami helps you transform your API into a server with tools already configured, so assistants and agents can interact with your systems in a structured and reliable way.
+
+- Learn more: https://devic.ai/ami/
+
+### Memo — Releasing soon
+**Context management for AI assistants and agents.**
+
+Memo helps teams manage the context layer behind AI assistants and agents, so products can keep the right information available across conversations, tasks, and product context.
+
+Memo will be published as open source soon.
+
+### Operator — Coming soon
+**Secure execution for complex agent tasks.**
+
+Operator gives assistants and agents a sandboxed execution environment with your own CLI, enabling them to solve complex tasks safely from end to end.
+
+### Navigate — Coming soon
+**Headless web interaction for AI agents.**
+
+Navigate allows agents to visit websites, interact with interfaces, and complete browser-based tasks autonomously.
+
+## Commercial Platform
+
+Beyond the open-source building blocks, Devic provides a commercial platform for teams that want to ship assistants and agents into products faster and with less operational overhead.
+
+The Devic platform helps companies:
+
+- integrate assistants and agents into real product experiences
+- orchestrate context, tools, execution, and navigation in one place
+- move faster with production-ready patterns
+- avoid rebuilding the same infrastructure from scratch
+
+- Website: https://devic.ai/
+
+## How it fits together
+
+We believe companies should not have to rebuild the same infrastructure every time they want to add AI capabilities to a product.
+
+That is why Devic is opening the core building blocks needed to embed assistants and agents into products.
+
+The open-source projects provide reusable primitives.  
+The Devic commercial platform helps teams operationalize them faster in production.
+
+## Get involved
+
+We want to build this in the open with the community.
+
+You can help by:
+
+- exploring the repositories
+- opening issues with feedback and use cases
+- contributing code, docs, and examples
+- suggesting integrations and missing primitives
+- sharing how you are building AI assistants and agents in real products
+
+## Start here
+
+- Explore the repositories
+- Follow the roadmap
+- Learn more about Ami
+- Discover the Devic platform
+
+---
+
+**Devic is building the open infrastructure layer for AI assistants and agents in products.**
